@@ -47,7 +47,7 @@ import datasetHandler from "../mixins/datasetHandler";
 export default {
     components: {
         Multiselect,
-        ChartjsRangeChart
+        ChartjsBarChart
     },
 
     mixins: [colors, datasetHandler],
